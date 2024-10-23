@@ -1,4 +1,5 @@
 # Fukumaisaba
+[![Discord](https://img.shields.io/discord/976737865671270411?label=Discord&color=5865F2)](https://dc.fukumaisaba.net)
 福舞鯖では経済鯖要素のあるサバイバルやCASINO鯖サーバーなどがあります。  
 毎日50人以上のプレイヤーが参加するサバイバルサーバーで遊んでみませんか？
 
